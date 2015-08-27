@@ -100,17 +100,17 @@ Public Class Form1
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
         'testing
-        courses.Add(New Course("test", "professor", "L", "1", "MWF", 18, 20, "Kinsey"))
-        courses.Add(New Course("test2", "professor2", "D", "2", "TWH", 8, 10, "PAB"))
+        'courses.Add(New Course("test", "professor", "L", "1", "MWF", 18, 20, "Kinsey"))
+        'courses.Add(New Course("test2", "professor2", "D", "2", "TWH", 8, 10, "PAB"))
 
-        TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=STATS&idxcrs=0100A+++"
-        Button1_Click(Nothing, Nothing)
-        TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=PHYSICS&idxcrs=0004BL+++"
-        Button1_Click(Nothing, Nothing)
-        TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=ENGCOMP&idxcrs=0003++++"
-        Button1_Click(Nothing, Nothing)
-        TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=PHYSICS&idxcrs=0001C+++"
-        Button1_Click(Nothing, Nothing)
+        'TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=STATS&idxcrs=0100A+++"
+        'Button1_Click(Nothing, Nothing)
+        'TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=PHYSICS&idxcrs=0004BL+++"
+        'Button1_Click(Nothing, Nothing)
+        'TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=ENGCOMP&idxcrs=0003++++"
+        'Button1_Click(Nothing, Nothing)
+        'TextBox1.Text = "http://www.registrar.ucla.edu/schedule/detselect.aspx?termsel=15F&subareasel=PHYSICS&idxcrs=0001C+++"
+        'Button1_Click(Nothing, Nothing)
 
         'coursesDisplay.Add(2)
         'coursesDisplay.Add(3)
