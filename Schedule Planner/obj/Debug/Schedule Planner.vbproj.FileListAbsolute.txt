@@ -1,0 +1,22 @@
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.exe.config
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.exe
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.pdb
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.xml
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule_Planner.Form1.resources
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule_Planner.Resources.resources
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.vbproj.GenerateResource.Cache
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.exe
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.xml
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.pdb
+D:\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.vbprojResolveAssemblyReference.cache
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.exe.config
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.exe
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.xml
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.pdb
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.exe
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.pdb
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\bin\Debug\Schedule Planner.xml
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.vbprojResolveAssemblyReference.cache
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule_Planner.Form1.resources
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule_Planner.Resources.resources
+C:\MicroSD2\OneDrive\Documents 2\Computer Science\Visual Studio Projects\Schedule Planner\Schedule Planner\obj\Debug\Schedule Planner.vbproj.GenerateResource.Cache
