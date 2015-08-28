@@ -4,6 +4,7 @@ Optimizes and creates all possible schedules from classes. A VB.NET program.
 
 Contributions welcome!
 
+------------------------
 How to use:
 
 Where it says "Enter URL here", enter the class's registrar url 
